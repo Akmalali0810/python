@@ -1,7 +1,12 @@
+
+
+
+
 def sum(a,b):
     return a+b
-def sub(a,c):
-    return a-c
+def sub(a,b):
+    return a-b
 
-x = lambda a,b: a/b
+print(sum(20,30))
+print(sub(20,10))
 
